@@ -31,7 +31,7 @@ Pull requests are welcome. For changes, please contact me (my info is in the que
     
 ## Visual
 
-
+[quick video tutorial!](https://www.youtube.com/watch?v=OBxgejngEQA&ab_channel=RichardKim)
 
 ## Questions
 

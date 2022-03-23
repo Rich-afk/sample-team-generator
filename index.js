@@ -30,6 +30,7 @@ const baseQuestions = [
     }
 ]
 
+console.log('For the manager,'),
 inquirer
     .prompt(
         [
